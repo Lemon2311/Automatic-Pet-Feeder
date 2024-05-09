@@ -1,6 +1,6 @@
 # Automatic-Pet-Feeder
 
-This project is an automatic pet feeder, designed to make pet care easier and more convenient.
+This project is an automatic pet feeder, designed to make pet care easier and more convenient.<br>
 *Note*: This project is in active development and not yet fully tested and functional.
 
 ## Structure
